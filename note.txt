@@ -1,0 +1,19 @@
+crtl+shift+p  HTML DOCUMENT自动对齐
+广度优先原则
+网页的第一个名字必须是index.html  默认不展开文件夹
+！DOCTYPE html
+    ! 含义为执行
+    DOCTYPE html 指明文本类型为html
+html文档为一棵树 DOM树
+    根节点为html
+    紧接着是两个节点 head和body
+    head 头部信息
+        meta charset字符集 
+        utf-8 压缩 /utf-16 
+        ios88591
+        gb18030 包含中国所有
+     body 消息体
+后缀名
+    .html/.htm
+元素 由标签和内容组成 <标签>内容</标签>
+    元素可以是叶子节点 也可以是中间节点 元素可以互相包含
